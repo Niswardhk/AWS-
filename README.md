@@ -1,1 +1,2 @@
-# AWS-
+Serverless Inventory Management System with AWS Lambda and DynamoDB
+This is a Serverless Inventory Management System built using AWS serverless services. The project demonstrates how to manage inventory items efficiently with a web interface, leveraging AWS Lambda for backend logic, DynamoDB for data storage, and API Gateway for API management. Features include adding, editing, deleting, viewing, and managing inventory items with a simple and intuitive user interface.
